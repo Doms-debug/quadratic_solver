@@ -1,0 +1,15 @@
+C:\Users\domik\source\repos\Projekt_01\Projekt_01\bin\Debug\net6.0\Projekt_01.exe
+C:\Users\domik\source\repos\Projekt_01\Projekt_01\bin\Debug\net6.0\Projekt_01.deps.json
+C:\Users\domik\source\repos\Projekt_01\Projekt_01\bin\Debug\net6.0\Projekt_01.runtimeconfig.json
+C:\Users\domik\source\repos\Projekt_01\Projekt_01\bin\Debug\net6.0\Projekt_01.dll
+C:\Users\domik\source\repos\Projekt_01\Projekt_01\bin\Debug\net6.0\Projekt_01.pdb
+C:\Users\domik\source\repos\Projekt_01\Projekt_01\obj\Debug\net6.0\Projekt_01.csproj.AssemblyReference.cache
+C:\Users\domik\source\repos\Projekt_01\Projekt_01\obj\Debug\net6.0\Projekt_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\domik\source\repos\Projekt_01\Projekt_01\obj\Debug\net6.0\Projekt_01.AssemblyInfoInputs.cache
+C:\Users\domik\source\repos\Projekt_01\Projekt_01\obj\Debug\net6.0\Projekt_01.AssemblyInfo.cs
+C:\Users\domik\source\repos\Projekt_01\Projekt_01\obj\Debug\net6.0\Projekt_01.csproj.CoreCompileInputs.cache
+C:\Users\domik\source\repos\Projekt_01\Projekt_01\obj\Debug\net6.0\Projekt_01.dll
+C:\Users\domik\source\repos\Projekt_01\Projekt_01\obj\Debug\net6.0\refint\Projekt_01.dll
+C:\Users\domik\source\repos\Projekt_01\Projekt_01\obj\Debug\net6.0\Projekt_01.pdb
+C:\Users\domik\source\repos\Projekt_01\Projekt_01\obj\Debug\net6.0\Projekt_01.genruntimeconfig.cache
+C:\Users\domik\source\repos\Projekt_01\Projekt_01\obj\Debug\net6.0\ref\Projekt_01.dll
